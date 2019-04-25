@@ -1,3 +1,3 @@
 # best-repo-ever
-//This is change in new-branch-1 for merge conflict demo
+//This is added for resolution of merge conflict from branch 1 and branch 2
 //This is change done 
